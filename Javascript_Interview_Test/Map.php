@@ -12,7 +12,7 @@
 
 <!-- O/P : [100, 400, 900, 1600, 2500] -->
 
-<!-- Filter : Used to find the specifix element of array -->
+<!-- Filter : Used to find the specific element of array -->
 
 <script>
 
@@ -21,11 +21,11 @@
 
     console.log(data_store1);
 
+<!-- Reduce() : To used for single record return
+
 </script>
 
-<!-- O/P : [30, 40, 50] -->
-
-<!-- Reduce() : To used for single record return the code. to find the arrays -->
+<!-- O/P : [30, 40, 50] --> the code. to find the arrays -->
 
 <script>
 
